@@ -13,14 +13,14 @@ Primera parte de la página web:
 
 Si el número es menor:
 
-![Menor](img/secret-number-game-menor.png)
+![Menor](images/secret-number-game-menor.png)
 
 Si el número es mayor:
-![Mayor](img/secret-number-game-mayor.png)
+![Mayor](images/secret-number-game-mayor.png)
 
 Si acertaste:
 
-![Acertar](img/secret-number-game-acertaste.png)
+![Acertar](images/secret-number-game-acertaste.png)
 
 ## Tecnologías
 
