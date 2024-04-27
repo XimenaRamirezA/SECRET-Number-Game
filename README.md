@@ -9,7 +9,7 @@ El propósito de esta página web es hacer que el usuario pueda jugar a adivinar
 
 Primera parte de la página web:
 
-![Primera parte de la página web](SECRET-Number-Game/img/secret-number-game-main.png) 
+![Primera parte de la página web](secret-number-game-main.png) 
 
 Si el número es menor:
 
