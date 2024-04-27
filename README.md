@@ -11,7 +11,7 @@ También incluye imágenes alternativas en la carpeta `imagenes` en caso de que 
 
 Primera parte de la página web:
 
-![Primera parte de la página web](img/secret-number-game-main.png)
+![Primera parte de la página web](img/secret-number-game-main.png) 
 
 Si el número es menor:
 
