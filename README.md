@@ -9,18 +9,18 @@ El propósito de esta página web es hacer que el usuario pueda jugar a adivinar
 
 Primera parte de la página web:
 
-![Primera parte de la página web](img/secret-number-game-main.png) 
+![Primera parte de la página web](SECRET-Number-Game/img/secret-number-game-main.png) 
 
 Si el número es menor:
 
-![Menor](images/secret-number-game-menor.png)
+![Menor](SECRET-Number-Game/img/secret-number-game-menor.png)
 
 Si el número es mayor:
-![Mayor](images/secret-number-game-mayor.png)
+![Mayor](SECRET-Number-Game/img/secret-number-game-mayor.png)
 
 Si acertaste:
 
-![Acertar](images/secret-number-game-acertaste.png)
+![Acertar](SECRET-Number-Game/img/secret-number-game-acertaste.png)
 
 ## Tecnologías
 
