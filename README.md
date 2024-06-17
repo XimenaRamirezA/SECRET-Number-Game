@@ -35,7 +35,7 @@ Esta página web fue creada con:
 
 El título de la página web está escrito en inglés y el texto en español, las clases y atributos personalizados están en español.
 
-Link del demo:
+Link del demo: https://ximenaramireza.github.io/SECRET-Number-Game/
 
 
 
